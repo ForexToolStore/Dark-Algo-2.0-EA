@@ -3,6 +3,8 @@
 
 <b>Dark Algo 2.0 EA</b> is an automated trading robot for MetaTrader that uses advanced algorithms to trade forex pairs like EURUSD and GBPUSD. It offers smart risk management and easy customization for consistent, hands-free trading.
 
+![image](https://github.com/user-attachments/assets/d5f0c8f2-3b3a-45b7-a248-0e43dbe6fca9)
+
 <br>
 
 ## 5 Key Features:
